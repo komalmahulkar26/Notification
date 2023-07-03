@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(246, 43, 7);
+}
+h1 {
+  color: rgba(10, 10, 141, 0.779);
+}
+div {
+  background-color: aliceblue;
+  margin: 20px;
+  padding: 10px;
+  border: 10px;
+  border-radius: 10px;
+}
